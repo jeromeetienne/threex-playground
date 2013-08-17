@@ -1,4 +1,4 @@
-threexplayground
-================
+html editor
+===========
 
-playground for threex extension
+Simple editor for messing around.
