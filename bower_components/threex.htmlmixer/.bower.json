@@ -1,11 +1,11 @@
 {
   "name": "threex.htmlmixer",
   "homepage": "https://github.com/jeromeetienne/threex.htmlmixer",
-  "_release": "789a6d2293",
+  "_release": "9dd899d48a",
   "_resolution": {
     "type": "branch",
     "branch": "master",
-    "commit": "789a6d229304e0ccf45ead0e5a55901c5d51d44c"
+    "commit": "9dd899d48af63bf1cd8629316c3da371921e9630"
   },
   "_source": "git://github.com/jeromeetienne/threex.htmlmixer.git",
   "_target": "*"

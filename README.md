@@ -28,3 +28,9 @@ Check they are all in the bower.json ```dependencies``` field. It should look li
     "threex.windowresize": "*"
   }
 ```
+
+once ```bower.json``` updated, just do
+
+```
+bower install
+```
