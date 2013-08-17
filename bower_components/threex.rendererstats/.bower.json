@@ -1,0 +1,12 @@
+{
+  "name": "threex.rendererstats",
+  "homepage": "https://github.com/jeromeetienne/threex.rendererstats",
+  "_release": "eb43b05b83",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "eb43b05b83f03014efa3b6d35cfff41eddae8df8"
+  },
+  "_source": "git://github.com/jeromeetienne/threex.rendererstats.git",
+  "_target": "*"
+}

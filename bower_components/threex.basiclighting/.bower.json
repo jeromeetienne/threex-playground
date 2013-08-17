@@ -1,0 +1,12 @@
+{
+  "name": "threex.basiclighting",
+  "homepage": "https://github.com/jeromeetienne/threex.basiclighting",
+  "_release": "0aefdfac21",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "0aefdfac211f5d28869f4e9d51356fe17946de01"
+  },
+  "_source": "git://github.com/jeromeetienne/threex.basiclighting.git",
+  "_target": "*"
+}

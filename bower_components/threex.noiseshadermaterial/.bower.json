@@ -1,0 +1,12 @@
+{
+  "name": "threex.noiseshadermaterial",
+  "homepage": "https://github.com/jeromeetienne/threex.noiseshadermaterial",
+  "_release": "2f44fc5dd4",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "2f44fc5dd498f70f9818a4a67748b7418810fa7e"
+  },
+  "_source": "git://github.com/jeromeetienne/threex.noiseshadermaterial.git",
+  "_target": "*"
+}

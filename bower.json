@@ -10,6 +10,17 @@
     "tests"
   ],
   "dependencies": {
-    "threex.windowresize": "*"
+    "threex.windowresize": "*",
+    "threex.cannonjs": "*",
+    "threex.nyancat": "*",
+    "threex.htmlmixer": "*",
+    "threex.planets": "*",
+    "threex.geometricglow": "*",
+    "threex.basiclighting": "*",
+    "threex.depthoffield": "*",
+    "threex.transparency": "*",
+    "threex.noiseshadermaterial": "*",
+    "threex.proceduralcity": "*",
+    "threex.rendererstats": "*"
   }
 }

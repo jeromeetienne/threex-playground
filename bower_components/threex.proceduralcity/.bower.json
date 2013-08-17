@@ -1,0 +1,12 @@
+{
+  "name": "threex.proceduralcity",
+  "homepage": "https://github.com/jeromeetienne/threex.proceduralcity",
+  "_release": "4c52e7de3b",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "4c52e7de3b9c62a9792a7f8ccf3d64854c62fd38"
+  },
+  "_source": "git://github.com/jeromeetienne/threex.proceduralcity.git",
+  "_target": "*"
+}

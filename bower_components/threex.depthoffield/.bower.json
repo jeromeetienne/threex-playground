@@ -1,0 +1,12 @@
+{
+  "name": "threex.depthoffield",
+  "homepage": "https://github.com/jeromeetienne/threex.depthoffield",
+  "_release": "ffc09bc90a",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "ffc09bc90a5255cf0263555d095ef45eddebb283"
+  },
+  "_source": "git://github.com/jeromeetienne/threex.depthoffield.git",
+  "_target": "*"
+}
