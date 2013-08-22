@@ -34,3 +34,9 @@ once ```bower.json``` updated, just do
 ```
 bower install
 ```
+
+Here is the one liner to generate the list from ```bower search```
+
+```bash
+bower search threex. | tail +3 | tr -s ' '| cut -d' ' -f 2 | xargs -I {} echo "\"{}\" : \"*\","
+```
