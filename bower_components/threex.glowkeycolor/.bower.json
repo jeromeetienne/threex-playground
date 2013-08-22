@@ -1,0 +1,12 @@
+{
+  "name": "threex.glowkeycolor",
+  "homepage": "https://github.com/jeromeetienne/threex.glowkeycolor",
+  "_release": "74e5d4bef3",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "74e5d4bef35dc11c75550c884e7b17de2fd24b4a"
+  },
+  "_source": "git://github.com/jeromeetienne/threex.glowkeycolor.git",
+  "_target": "*"
+}
