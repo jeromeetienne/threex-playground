@@ -10,17 +10,20 @@
     "tests"
   ],
   "dependencies": {
-    "threex.windowresize": "*",
-    "threex.cannonjs": "*",
-    "threex.nyancat": "*",
-    "threex.htmlmixer": "*",
-    "threex.planets": "*",
-    "threex.geometricglow": "*",
-    "threex.basiclighting": "*",
-    "threex.depthoffield": "*",
-    "threex.transparency": "*",
-    "threex.noiseshadermaterial": "*",
-    "threex.proceduralcity": "*",
-    "threex.rendererstats": "*"
+    "threex.windowresize" : "*",
+    "threex.rendererstats" : "*",
+    "threex.nyancat" : "*",
+    "threex.htmlmixer" : "*",
+    "threex.basiclighting" : "*",
+    "threex.skymap" : "*",
+    "threex.planets" : "*",
+    "threex.geometricglow" : "*",
+    "threex.cannonjs" : "*",
+    "threex.depthoffield" : "*",
+    "threex.proceduralcity" : "*",
+    "threex.transparency" : "*",
+    "threex.noiseshadermaterial" : "*",
+    "threex.keyboardstate" : "*",
+    "threex.glowkeycolor" : "*"
   }
 }
